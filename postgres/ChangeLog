@@ -1,0 +1,17 @@
+Changes for 6.4.0beta6
+
+switch to Zabbix versioning
+fixed custom query read on empty parameter
+
+--------------------------------------------------------------------------------
+Changes for 1.2.1
+
+changed connection to be per database
+
+--------------------------------------------------------------------------------
+Changes for 1.2.0
+
+initial release
+
+--------------------------------------------------------------------------------
+
